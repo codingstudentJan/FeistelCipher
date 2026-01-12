@@ -1,0 +1,32 @@
+# Build
+build/
+cmake-build-*/
+out/
+
+.vs/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiler
+*.o
+*.obj
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
