@@ -11,7 +11,7 @@ This project demonstrates:
 - Round functions and key scheduling
 - Reversibility of Feistel ciphers
 - Basic cryptographic engineering considerations
-- How many modern cryptographic algorithms work on an abstract layer
+- How modern block ciphers are constructed on an abstract, algorithmic level
 
 ## Implemented Features
 - Configurable number of rounds
